@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-  <pyqgis_plugin name="Hugo's Magic Colours" version="1.0.1">
+  <pyqgis_plugin name="Hugo's Magic Colours" version="1.0.2">
     <description>Applies symbology to hydraulic rasters — depth, velocity, water level, hazard, ZAEM1, afflux, and SRC source grids.</description>
     <about>Select a raster layer and click the button. The plugin detects the raster type from its filename suffix and applies appropriate symbology automatically.</about>
     <version>1.0.2</version>
